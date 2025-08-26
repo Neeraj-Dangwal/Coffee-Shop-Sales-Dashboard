@@ -5,7 +5,7 @@ This project analyzes coffee shop sales data to uncover key insights. Using Exce
 
 ## Dataset 
 
-<a href="https://github.com/Neeraj-Dangwal/Coffee-Shop-Sales-Dashboard/blob/main/coffee%20shop%20sales.xlsx">Dataset</a>
+- <a href="https://github.com/Neeraj-Dangwal/Coffee-Shop-Sales-Dashboard/blob/main/coffee%20shop%20sales.xlsx">Dataset</a>
 
 ## Key Features
 - Interactive dashboard with slicers for month, day, and store location
@@ -29,6 +29,6 @@ This project analyzes coffee shop sales data to uncover key insights. Using Exce
 
 ## Dashboard
 
-<a href="https://github.com/Neeraj-Dangwal/Coffee-Shop-Sales-Dashboard/blob/main/Screenshot%202025-08-26%20125555.png">Dashboard</a>
+- <a href="https://github.com/Neeraj-Dangwal/Coffee-Shop-Sales-Dashboard/blob/main/Screenshot%202025-08-26%20125555.png">Dashboard</a>
 
 <img width="1855" height="846" alt="Screenshot 2025-08-26 125555" src="https://github.com/user-attachments/assets/b100ffdc-5392-475b-a750-3c2f34103e4b" />
